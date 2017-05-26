@@ -75,11 +75,11 @@ content_3: "iret / cloudpack I helped create a variety of websites and System UI
 1. To save to PDF, please use the browser save function
 1. To print only one page, specify that page from the browser's print screen.
 
-![View](./img/Summarys-preview.png)
+![View](./img/Summarys-to-pdf.png)
 
 ## Author & License
 
 Ancy
 
-[Website](http://lazulirose.com/)
-[Twitter](https://twitter.com/lazulirose_ancy)
+- [Website](http://lazulirose.com/)
+- [Twitter](https://twitter.com/lazulirose_ancy)
