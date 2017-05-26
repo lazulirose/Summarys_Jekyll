@@ -27,7 +27,7 @@ Please check with localhost.
 
 # Usage
 
-Editing Your Resume
+Editing Your Summary(Resume)
 
 Edit `_data/summary.yml` like this:
 
